@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h3>My name is Taíssa and I am an Information Systems student at UFJF. 
-  My skills include C, C++, Java, JavaScript, HTML, CSS and Python. I'm currently learning Vue.js!</h3>
+  My skills include C, C++, Java, JavaScript, HTML, CSS and Python. I'm currently learning Vue.js!
+</h3>
+
 ---
 
 ### :fire: My Stats :
