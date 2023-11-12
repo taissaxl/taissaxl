@@ -1,9 +1,10 @@
 ### Hi there 👋
-My name is Taíssa and I am a Information Systems student at UFJF. 
+My name is Taíssa and I am an Information Systems student at UFJF. 
+My skills include C, C++, Java, JavaScript, HTML, CSS and Python. I'm currently learning Vue.js!
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taissaxl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taissaxl&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
