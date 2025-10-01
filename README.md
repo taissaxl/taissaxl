@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>My name is Taíssa and I am an Information Systems student at UFJF. 
-  My skills include C++, Java, JavaScript, HTML, CSS and Python.
+  My skills include C, C++, Java, JavaScript, HTML, CSS, Python and SQL.
 </p>
 
 ---
@@ -22,4 +22,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </div>
